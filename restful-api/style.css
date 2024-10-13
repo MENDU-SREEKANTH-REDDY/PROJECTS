@@ -1,0 +1,26 @@
+h1{
+    color: maroon;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.posts{
+    background-color: lightblue;
+    color: white;
+    
+    padding: 10px;
+     margin: 5px; 
+     margin-left: 50px;
+    width: 1000px;
+}
+
+.user{
+    color: black;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+.content{
+    color:black;
+    
+}
