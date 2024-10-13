@@ -1,2 +1,2 @@
 # PROJECTS
-HELLO, These projects are made while i was learning MERN stack.
+HELLO, These projects were made while I was learning the MERN stack.
